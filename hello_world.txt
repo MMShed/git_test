@@ -1,0 +1,4 @@
+This is a sample hello world text file
+that I have created, modified, and added
+in the process of learning to use git via
+The Odin Project. You got this, dude!
